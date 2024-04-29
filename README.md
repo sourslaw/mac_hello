@@ -1,6 +1,8 @@
-### 👋 🌎
+This is a static page for the illustrattive use of IIIF Manifests and Universal Viewer.
 
-# This uses UV v3, for v4 examples use https://github.com/UniversalViewer/uv-examples
+---
+
+This uses UV v3, for v4 examples use https://github.com/UniversalViewer/uv-examples
 
 #### Prerequisites
 
