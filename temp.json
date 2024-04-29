@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll171/id/200",
+  "@type": "sc:Manifest",
+  "label": "A Jury of His Peers",
+  "sequences": [
+    {
+      "@id": "http://EXAMPLE.com/manifest/seq/",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://example.com/canvas",
+          "@type": "sc:Canvas",
+          "width": 10,
+          "height": 20,
+          "label": "A Jury of His Peers",
+          "images": [
+            {
+              "@id": "http://example.com/canvas/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll171:200/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 10,
+                "height": 20,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll171:200",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://example.com/content"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1824/manifest.json",
+    "label": "La Prensa de Minnesota, Volume 5, Number 20, May 18, 1995",
+    "metadata": [
+      {
+        "label": "Additional Notes",
+        "value": "Newspaper donated by Mario Duarte"
+      },
+      {
+        "label": "Barcode Identifier",
+        "value": "UMN_BARCODE:31951SA2510136L"
+      },
+      {
+        "label": "City or Township",
+        "value": "Minneapolis; Saint Paul"
+      },
+      {
+        "label": "Contact Information",
+        "value": "University of Minnesota Libraries, Immigration History Research Center Archives. 311 Elmer L. Andersen Library, 222 - 21st Avenue South, Minneapolis, MN 55455; https://www.lib.umn.edu/ihrca"
+      },
+      {
+        "label": "Continent",
+        "value": "North America"
+      },
+      {
+        "label": "Contributing Organization",
+        "value": "University of Minnesota Libraries, Immigration History Research Center Archives."
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Date of Creation",
+        "value": "1995-05-18"
+      },
+      {
+        "label": "Description",
+        "value": "\"Weekly Hispanic Newspaper for Business, Arts, and Community News.\" In English and Spanish."
+      },
+      {
+        "label": "Dimensions",
+        "value": "58 centimeters"
+      },
+      {
+        "label": "DLS Identifier",
+        "value": "laprensa-vol05-no020"
+      },
+      {
+        "label": "Item Physical Format",
+        "value": "Newspapers | http://vocab.getty.edu/aat/300026656"
+      },
+      {
+        "label": "Language",
+        "value": "Spanish; English"
+      },
+      {
+        "label": "Local Rights Statement",
+        "value": "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+      },
+      {
+        "label": "Publisher",
+        "value": "Latino Communications Network (Saint Paul, Minnesota)"
+      },
+      {
+        "label": "Region or Area",
+        "value": "Estados Unidos"
+      },
+      {
+        "label": "Rights Statement URI",
+        "value": "http://rightsstatements.org/vocab/InC/1.0/"
+      },
+      {
+        "label": "sp_Additional Notes",
+        "value": "Periódico donado por Mario Duarte."
+      },
+      {
+        "label": "sp_Continent",
+        "value": "Norteamérica"
+      },
+      {
+        "label": "sp_Country",
+        "value": "Estados Unidos"
+      },
+      {
+        "label": "sp_Description",
+        "value": "\"Periódico hispano semanal de negocios, artes y noticias comunitarias.\" En inglés y español."
+      },
+      {
+        "label": "sp_Dimensions",
+        "value": "58 centímetros"
+      },
+      {
+        "label": "sp_Item Type",
+        "value": "Texto"
+      },
+      {
+        "label": "sp_Item Physical Format",
+        "value": "Periódicos | http://vocab.getty.edu/aat/300026656"
+      },
+      {
+        "label": "sp_Language",
+        "value": "Español; Inglés"
+      },
+      {
+        "label": "sp_Locally Assigned Subject Headings",
+        "value": "Hispano americanos -- Minnesota -- Periódicos; Saint Paul (Minnesota) -- Periódicos; Minneapolis (Minnesota) -- Periódicos"
+      },
+      {
+        "label": "sp_Local Rights Statement",
+        "value": "El uso de este artículo puede regirse por las leyes de derechos de autor internacionales y de EE. UU. Es posible que pueda usar este elemento, pero es posible que se apliquen derechos de autor y otras consideraciones. Para obtener información adicional u orientación sobre su uso, comuníquese con la organización contribuyente."
+      },
+      {
+        "label": "sp_Rights Statement URI",
+        "value": "https://rightsstatements.org/page/InC/1.0/?language=es"
+      },
+      {
+        "label": "sp_Title",
+        "value": "La Prensa de Minnesota, volumen 5, número 20, mayo 18, 1995"
+      },
+      {
+        "label": "State or Province",
+        "value": "Minnesota"
+      },
+      {
+        "label": "Locally Assigned Subject Headings",
+        "value": "Hispanic Americans -- Minnesota -- Newspapers;  Saint Paul (Minn.) -- Newspapers;  Minneapolis (Minn.) -- Newspapers"
+      },
+      {
+        "label": "System Identifier",
+        "value": "UMN_ALMA:9951950990001701"
+      },
+      {
+        "label": "Title",
+        "value": "La Prensa de Minnesota, Volume 5, Number 20, May 18, 1995"
+      },
+      {
+        "label": "Item Type",
+        "value": "Text"
+      },
+      {
+        "label": "UMedia Archive",
+        "value": "yes"
+      },
+      {
+        "label": "Repository",
+        "value": "Minnesota Digital Library"
+      },
+      {
+        "label": "Source",
+        "value": "<span>From: <a href=\"https://cdm16022.contentdm.oclc.org/digital/collection/p16022coll613/id/1824\">La Prensa de Minnesota, Volume 5, Number 20, May 18, 1995</a></span>"
+      }
+    ],
+    "attribution": [
+      "",
+      "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization.",
+      "",
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "seeAlso": {
+      "@id": "https://cdm16022.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16022.contentdm.oclc.org:p16022coll613/1824&metadataPrefix=oai_qdc",
+      "format": "application/xml",
+      "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+    },
+    "within": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613/manifest.json",
+    "sequences": [
+      {
+        "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1824/sequence/s0",
+        "@type": "sc:Sequence",
+        "label": "La Prensa de Minnesota, Volume 5, Number 20, May 18, 1995",
+        "canvases": [
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1816/canvas/c0",
+            "@type": "sc:Canvas",
+            "label": "Page 1",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1816/annotation/a0",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1816/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1816",
+                    "width": 3923,
+                    "height": 6145,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6145
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1816/canvas/c0"
+              }
+            ],
+            "width": 3923,
+            "height": 6145
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1817/canvas/c1",
+            "@type": "sc:Canvas",
+            "label": "Page 2",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1817/annotation/a1",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1817/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1817",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1817/canvas/c1"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1818/canvas/c2",
+            "@type": "sc:Canvas",
+            "label": "Page 3",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1818/annotation/a2",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1818/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1818",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1818/canvas/c2"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1819/canvas/c3",
+            "@type": "sc:Canvas",
+            "label": "Page 4",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1819/annotation/a3",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1819/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1819",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1819/canvas/c3"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1820/canvas/c4",
+            "@type": "sc:Canvas",
+            "label": "Page 5",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1820/annotation/a4",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1820/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1820",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1820/canvas/c4"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1821/canvas/c5",
+            "@type": "sc:Canvas",
+            "label": "Page 6",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1821/annotation/a5",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1821/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1821",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1821/canvas/c5"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1822/canvas/c6",
+            "@type": "sc:Canvas",
+            "label": "Page 7",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1822/annotation/a6",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1822/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1822",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1822/canvas/c6"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          },
+          {
+            "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1823/canvas/c7",
+            "@type": "sc:Canvas",
+            "label": "Page 8",
+            "images": [
+              {
+                "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1823/annotation/a7",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1823/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll613:1823",
+                    "width": 3923,
+                    "height": 6132,
+                    "tiles": [
+                      {
+                        "width": 3923,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image"
+                  },
+                  "format": "image/jpeg",
+                  "width": 3923,
+                  "height": 6132
+                },
+                "on": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1823/canvas/c7"
+              }
+            ],
+            "width": 3923,
+            "height": 6132
+          }
+        ]
+      }
+    ],
+    "structures": [
+      {
+        "@id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1824/range/r0",
+        "@type": "sc:Range",
+        "label": "La Prensa de Minnesota, Volume 5, Number 20, May 18, 1995",
+        "ranges": [],
+        "canvases": [
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1816/canvas/c0",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1817/canvas/c1",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1818/canvas/c2",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1819/canvas/c3",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1820/canvas/c4",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1821/canvas/c5",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1822/canvas/c6",
+          "https://cdm16022.contentdm.oclc.org/iiif/p16022coll613:1823/canvas/c7"
+        ],
+        "viewingHint": "top"
+      }
+    ],
+    "viewingHint": "paged"
+  }

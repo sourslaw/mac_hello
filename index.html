@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="uv/uv.css">
+    <script src="uv/lib/offline.js"></script>
+    <script src="uv/helpers.js"></script>
+    <title>UV Hello World</title>
+    <style>
+        #uv {
+            width: 800px;
+            height: 600px;
+        }
+    </style>
+    <!-- bootstrap shit for now -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+<div class="container">
+
+    <div id="uv" class="uv"></div>
+
+    <script>
+        var myUV;
+
+        window.addEventListener('uvLoaded', function(e) {
+
+            myUV = createUV('#uv', {
+                // iiifResourceUri: 'http://wellcomelibrary.org/iiif/b18035723/manifest',
+                iiifResourceUri: 'mac-mockup-compound-dream.json',
+                configUri: 'uv-config.json'
+            }, new UV.URLDataProvider());
+
+            myUV.on("created", function(obj) {
+                console.log('parsed metadata', myUV.extension.helper.manifest.getMetadata());
+                console.log('raw jsonld', myUV.extension.helper.manifest.__jsonld);
+            });
+        }, false);
+    </script>
+    <!-- <script>
+        var myUV;
+        window.addEventListener('uvLoaded', function (e) {
+            myUV = createUV('#uv', {
+                iiifResourceUri: 'example-resource-poster.json',
+                configUri: 'uv-config.json'
+            }, new UV.URLDataProvider());
+            myUV.on("created", function(obj) {
+                console.log('parsed metadata', myUV.extension.helper.manifest.getMetadata());
+                console.log('raw jsonld', myUV.extension.helper.manifest.__jsonld);
+            });
+        }, false);
+    </script> -->
+
+    <script src="uv/uv.js"></script>
+
+    <!-- TESTING js dom manipulation -->
+    <!-- <button onclick="CreateIframeElement()"> CreateIframe </button>  -->
+    <!-- <script>
+        const CreateIframeElement = () => { 
+            // Creating iframe element 
+            // var cont =  document.createElement("div")
+            let cont = document.createElement("div");
+            var el = document.createElement("iframe"); 
+            // Setting the values for the attributes 
+            el.srcdoc = `<iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1369852/embedPlaykitJs/uiconf_id/54071352?iframeembed=true&entry_id=0_ksa2994o' style="width: 700px; height: 542px"></iframe>`; 
+            el.width = "784px"; 
+            el.height = "542px"; 
+
+            cont.appendChild(el)
+            document.getElementsByClassName("mainPanel")[0].appendChild(cont)
+        } 
+    </script> -->
+    
+    <!-- <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+            setTimeout(function(){
+                var el = document.createElement("iframe"); 
+                // Setting the values for the attributes 
+                el.srcdoc = `<iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1369852/embedPlaykitJs/uiconf_id/54071352?iframeembed=true&entry_id=0_ksa2994o' style="width: 725px; height: 475px" allowfullscreen></iframe>`; 
+                el.width = "784px"; 
+                el.height = "500px"; 
+                el.border = "0";
+                // Adding the created iframe to div as a child element 
+                document.getElementsByClassName("mainPanel")[0].appendChild(el);
+        }, 150);
+        });
+    </script>
+    <style>
+        .centerPanel {display:none;}
+        iframe {
+            border-style: none;
+            border: 0;
+        }
+    </style>     -->
+    <!-- END TESTING js dom manipulation -->
+
+    <!-- temp/mock up for umedia screenshots -->
+    <hr>
+    <div>
+        <b>Content notice:</b> lorem ipsun</br>
+        <b>Contact us about this resource <i class="fa fa-envelope"></i></b>
+    </div>
+    <div id="item-details">
+        <h3>About this item</h3>
+        <dl class="px-3">
+            <dt>Collection title:</dt>
+            <dd><span>John Berryman Papers</span></dd>
+            <dt>Collection description:</dt>
+            <dd><span>The John Berryman Papers contain manuscripts, notes, typescripts, galleys and proofs of works in poetry and prose. Also included are photographs, diaries, awards, financial records and other personal papers.</span></dd>
+            <dt>Item title:</dt>
+            <dd><span>Unpublished Dream Songs: Handwritten drafts, notes</span></dd>
+        </dl>
+
+    </div>
+
+</div>
+</body>
+</html>

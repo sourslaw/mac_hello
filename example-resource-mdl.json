@@ -1,0 +1,191 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@type":"sc:Manifest",
+  "@id":"https://cdm16022.contentdm.oclc.org/iiif/ros:895/manifest.json",
+  "label":"A letter that Mike Holm wrote to Erick and Rose Bjorkman on November 8, 1926 and the Mike Holm Story read on \"A Look Back in Time\" radio program, Roseau, Minnesota ",
+  "metadata":[
+     {
+        "label":"Audio Identifier",
+        "value":"1_pdxocelh\r\n"
+     },
+     {
+        "label":"City or Township",
+        "value":"Roseau "
+     },
+     {
+        "label":"Contact Information",
+        "value":"Roseau County Historical Society, 121 Center Street East, Suite 101, Roseau, Minnesota 56571 http://www.roseaucohistoricalsociety.org"
+     },
+     {
+        "label":"Contributing Organization",
+        "value":"Roseau County Historical Society "
+     },
+     {
+        "label":"Country",
+        "value":"United States"
+     },
+     {
+        "label":"County",
+        "value":"Roseau"
+     },
+     {
+        "label":"Date Created",
+        "value":"2005-04"
+     },
+     {
+        "label":"Description",
+        "value":"This sound clip highlights a letter that Mike Holm wrote to Erick and Rose Bjorkman on November 8, 1926 and the Mike Holm Story. The Roseau County Historical Society prepared this radio script to share county history through broadcasts on KJ102 FM in Roseau. The topics highlight the history of Roseau County and the people that lived there. "
+     },
+     {
+        "label":"Dimensions",
+        "value":"00:12:12"
+     },
+     {
+        "label":"Fiscal Sponsor",
+        "value":"Funding provided to the Minnesota Digital Library through the Minnesota Arts and Cultural Heritage Fund, a component of the Minnesota Clean Water, Land and Legacy constitutional amendment, ratified by Minnesota voters in 2008."
+     },
+     {
+        "label":"Minnesota Reflections Topic",
+        "value":"People of Minnesota"
+     },
+     {
+        "label":"GeoNames URI",
+        "value":"http://sws.geonames.org/5043761/"
+     },
+     {
+        "label":"Local Identifier",
+        "value":"RCM53-232"
+     },
+     {
+        "label":"Language",
+        "value":"English"
+     },
+     {
+        "label":"Collection Name",
+        "value":"Irene Olson Collection "
+     },
+     {
+        "label":"Creator",
+        "value":"Olson, Irene"
+     },
+     {
+        "label":"Physical Format",
+        "value":"Radio programs"
+     },
+     {
+        "label":"Rights Status",
+        "value":"In Copyright"
+     },
+     {
+        "label":"Rights Statement",
+        "value":"This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s)."
+     },
+     {
+        "label":"Use Determination URI",
+        "value":"http://rightsstatements.org/vocab/InC/1.0/"
+     },
+     {
+        "label":"Library of Congress Subject Headings",
+        "value":"Radio broadcasters; Radio broadcasting; Radio programs"
+     },
+     {
+        "label":"State or Province",
+        "value":"Minnesota"
+     },
+     {
+        "label":"Keywords",
+        "value":"Holm, Mike; letter; 1926; thank you; potatoes; election; unemployment; automobiles; scarlet fever; pioneer; statesman; Swedish emigrant boy; musician; business man; community leader; Minnesota Secretary of State; 31 years; 5 brothers; 1 sister; squatters' claims; Roseau River; Warren; education; violin; bass horn; Spencer; Henry; first clarinetist; John Philip Sousa Band; Jacklin, Alex; flutist; Chicago Symphony Orchestra; Pastor Boyd; water filled wine bottles; Indians; trading; bartering; tonsorial-barber; reputation; cut hair; shave; pull tooth; photograph; in one sitting; music store; Justice of the Peace; Village Council; Roseau Board of Education; Commercial Club; Coroner; Judge of Probate; Roseau County Agricultural Society; Minnesota State Fair Board; Minnesota Federation of County Fairs; Republican; Minnesota Motor Vehicle Department; National Association of Secretaries of State; American Association of Motor Vehicle Administrators; American Institute of Swedish Arts, Literature and Science; John Ericsson League of Minnesota; Jamtamot; Svenska Salskapet; decorated by King Gustav of Sweden; Masonic Order; Ancient and Accepted Scottish Rite; Zurah Temple; Ancient Order of Nobles of the Mystic Shrine;"
+     },
+     {
+        "label":"Title",
+        "value":"A letter that Mike Holm wrote to Erick and Rose Bjorkman on November 8, 1926 and the Mike Holm Story read on \"A Look Back in Time\" radio program, Roseau, Minnesota "
+     },
+     {
+        "label":"Type",
+        "value":"Sound Recording-Nonmusical"
+     },
+     {
+        "label":"Repository",
+        "value":"Minnesota Digital Library"
+     },
+     {
+        "label":"Source",
+        "value":"<span>From: <a href=\"https://cdm16022.contentdm.oclc.org/digital/collection/ros/id/895\">A letter that Mike Holm wrote to Erick and Rose Bjorkman on November 8, 1926 and the Mike Holm Story read on \"A Look Back in Time\" radio program, Roseau, Minnesota </a></span>"
+     }
+  ],
+  "attribution":[
+     "",
+     "http://rightsstatements.org/vocab/InC/1.0/"
+  ],
+  "seeAlso":{
+     "@id":"https://cdm16022.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16022.contentdm.oclc.org:ros/895&metadataPrefix=oai_qdc",
+     "format":"application/xml",
+     "profile":"http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+  },
+  "within":"https://cdm16022.contentdm.oclc.org/iiif/ros/manifest.json",
+  "sequences":[
+     {
+        "@id":"https://cdm16022.contentdm.oclc.org/iiif/ros:895/sequence/s0",
+        "@type":"sc:Sequence",
+        "label":"A letter that Mike Holm wrote to Erick and Rose Bjorkman on November 8, 1926 and the Mike Holm Story read on \"A Look Back in Time\" radio program, Roseau, Minnesota ",
+        "canvases":[
+           {
+              "@id":"https://cdm16022.contentdm.oclc.org/iiif/ros:894/canvas/c0",
+              "@type":"sc:Canvas",
+              "label":"Transcript",
+              "images":[
+                 {
+                    "@id":"https://cdm16022.contentdm.oclc.org/iiif/ros:894/annotation/a0",
+                    "@type":"oa:Annotation",
+                    "motivation":"sc:painting",
+                    "resource":{
+                       "@id":"https://cdm16022.contentdm.oclc.org/iiif/2/ros:894/full/full/0/default.jpg",
+                       "@type":"dctypes:Image",
+                       "service":{
+                          "@context":"http://iiif.io/api/image/2/context.json",
+                          "@id":"https://cdm16022.contentdm.oclc.org/iiif/2/ros:894",
+                          "width":1275,
+                          "height":1650,
+                          "tiles":[
+                             {
+                                "width":1275,
+                                "scaleFactors":[
+                                   1,
+                                   2,
+                                   4,
+                                   8,
+                                   16
+                                ]
+                             }
+                          ],
+                          "profile":"http://iiif.io/api/image/2/level1.json",
+                          "protocol":"http://iiif.io/api/image"
+                       },
+                       "format":"image/jpeg",
+                       "width":1275,
+                       "height":1650
+                    },
+                    "on":"https://cdm16022.contentdm.oclc.org/iiif/ros:894/canvas/c0"
+                 }
+              ],
+              "width":1275,
+              "height":1650
+           }
+        ]
+     }
+  ],
+  "structures":[
+     {
+        "@id":"https://cdm16022.contentdm.oclc.org/iiif/ros:895/range/r1",
+        "@type":"sc:Range",
+        "label":"A letter that Mike Holm wrote to Erick and Rose Bjorkman on November 8, 1926 and the Mike Holm Story read on \"A Look Back in Time\" radio program, Roseau, Minnesota ",
+        "ranges":[
+           
+        ],
+        "canvases":[
+           "https://cdm16022.contentdm.oclc.org/iiif/ros:894/canvas/c0"
+        ],
+        "viewingHint":"top"
+     }
+  ]
+}
