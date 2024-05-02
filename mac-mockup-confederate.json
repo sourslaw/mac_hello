@@ -32,7 +32,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.archivelab.org/iiif/0003-a/full/512,/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/lit02356/full/1512,/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 4657,

@@ -7,6 +7,8 @@ University of Minnesota](https://midwestarc.memberclicks.net/assets/documents/Me
   - [Unpublished Dream Songs: Handwritten drafts, notes (1 of 2)](https://sourslaw.github.io/j_berryman_compound/manifests/mac-mockup-compound-dream.json)
   - [Correspondence 1947-1949](https://sourslaw.github.io/j_berryman_pound/manifests/mac-mockup-compound-pound.json)
 
+Link to the demo/example page may be found: [here](https://sourslaw.github.io/mac_hello/)
+
 Additional information regarding IIIF may be found: [here](https://iiif.io/)
 
 Addtional information regarding what the University of Minnesota Libraries is doing with IIIF may be directed to: [lawans@umn.edu](mailto:lawans@umn.edu)
