@@ -38,7 +38,7 @@ This uses UV v3, for v4 examples use https://github.com/UniversalViewer/uv-examp
 Once these are installed, clone this repository to your file system, then run the following commands in your terminal:
 
 ```
-cd uv-hello-world
+cd mac-hello
 npm install
 npm start
 ```
