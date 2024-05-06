@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "http://9d3a6597-e862-45a5-96fe-225acfe48c26",
   "@type": "sc:Manifest",
-  "label": "Unpublished Dream Songs: Handwritten drafts, notes",
+  "label": "Unpublished Dream Songs: Handwritten drafts, notes (1 of 2)",
   "metadata": [
     {
       "label": "Collection title",
@@ -14,7 +14,7 @@
     },
     {
       "label": "Item title",
-      "value": "Unpublished Dream Songs: Handwritten drafts, notes"
+      "value": "Unpublished Dream Songs: Handwritten drafts, notes (1 of 2)"
     },
     {
       "label": "Date created",
