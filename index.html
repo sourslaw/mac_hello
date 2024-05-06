@@ -8,11 +8,21 @@
   <link rel="stylesheet" type="text/css" href="uv/uv.css">
   <script src="uv/lib/offline.js"></script>
   <script src="uv/helpers.js"></script>
-  <title>UV Hello World</title>
+  <title>MAC 2024 demo</title>
   <style>
     #uv {
       width: 800px;
-      height: 600px;
+      height: 650px;
+    }
+    .umn-link {
+      color: #0053b0; 
+      text-decoration: underline;
+      :hover {
+        background-color: #0053b0;
+        color: white;
+        cursor: pointer;
+        transition: all 0.5s
+      }
     }
   </style>
   <!-- bootstrap cdn -->
@@ -24,7 +34,7 @@
 <body>
   <div class="container pt-5">
 
-    <div id="uv" class="uv"></div>
+    <div id="uv" class="w-100"></div>
 
     <script>
       var myUV;
@@ -47,20 +57,20 @@
 
     <!-- temp/mock up for umedia screenshots -->
     <hr>
-    <div>
+    <div  >
       <b>Content notice:</b> Please note that some historical materials may contain harmful content and/or descriptions.</br>
-      <b style="color: #0053b0; text-decoration: underline">Contact us about this resource <i class="fa fa-envelope"></i></b>
+      <div class="umn-link"><b>Contact us about this resource <i class="fa fa-envelope"></i></b></div>
     </div>
     
     <div id="item-details" class="py-3">
       <h3>About this item</h3>
       <dl class="px-3">
         <dt>Collection title:</dt>
-        <dd><span style="color: #0053b0; text-decoration: underline">John Berryman Papers</span></dd>
+        <dd class="umn-link"><span>John Berryman Papers</span></dd>
         <dt>Collection description:</dt>
         <dd><span>The John Berryman Papers contain manuscripts, notes, typescripts, galleys and proofs of works in poetry and prose. Also included are photographs, diaries, awards, financial records and other personal papers.</span></dd>
         <dt>Item title:</dt>
-        <dd><span>Unpublished Dream Songs: Handwritten drafts, notes</span></dd>
+        <dd><span>Unpublished Dream Songs: Handwritten drafts, notes (1 of 2)</span></dd>
       </dl>
     </div>
     <hr>
