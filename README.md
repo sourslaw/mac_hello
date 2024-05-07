@@ -1,5 +1,7 @@
 # [Midwest Archives Conference | Des Moines 2024](https://www.midwestarchives.org/2024-mac-annual-meeting)
 
+![alt text](assets/screenshot.png)
+
 This is a static page for the illustrative application of IIIF Manifests and Universal Viewer. This is a resource for the talk, [Good Things Come in Threes: Building a Digital Collection at the
 University of Minnesota](https://midwestarc.memberclicks.net/assets/documents/MeetingPrograms/MAC_SpringProgram_2024_FINAL.pdf).
 <hr>
