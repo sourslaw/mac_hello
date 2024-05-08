@@ -27,7 +27,7 @@ Additional Links
 - Link to the demo/example page may be found: [here](https://sourslaw.github.io/mac_hello/)
 - Link to the Google Slides: [here](https://docs.google.com/presentation/d/1g1DuYgFLtK3Z34LxC3J5fZnS9lgRrgqeUIXNI9IJHKk/edit?usp=sharing)
 - Additional information regarding IIIF may be found: [here](https://iiif.io/)
-- Addtional information regarding what the University of Minnesota Libraries is doing with [Blacklight](https://github.com/projectblacklight/blacklight) or IIIF may be directed to: [lawans@umn.edu](mailto:lawans@umn.edu)
+- Addtional information regarding what the University of Minnesota Libraries is doing with [Blacklight](https://github.com/projectblacklight/blacklight) or IIIF may be directed to: [Lawans@umn.edu](mailto:lawans@umn.edu)
 
 ---
 
